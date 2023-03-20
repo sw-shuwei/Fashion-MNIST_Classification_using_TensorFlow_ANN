@@ -1,9 +1,7 @@
 # ann_fashion_mnist
-
-=======
 ## Dataset
 https://www.tensorflow.org/api_docs/python/tf/keras/datasets/fashion_mnist/load_data
-## ANN Model
+## ANN Model Structrue
 ![image](https://user-images.githubusercontent.com/127728688/226088572-db3ad22a-e56d-4d2c-aba5-a89b04b933db.png)
 ## Prediction
 Test accuracy: 87.93%
